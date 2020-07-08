@@ -118,7 +118,7 @@ def test():
     plt.tight_layout()
     # plt.subplots_adjust(left=0.08,hspace =0.5)
     # plt.show()
-    plt.savefig('pic/统计学习/res.png')
+    plt.savefig('pic/res.png')
 
 
 
